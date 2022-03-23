@@ -15,7 +15,7 @@ reopen.
 
 - React Native
 - Javascipt
-- SQl
+- SQL
 
 ## Team Members
 
