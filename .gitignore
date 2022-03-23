@@ -64,6 +64,6 @@ chrome-user-data
 
 # ignoring
 yarn.lock
-src/Firebase.js
-src/Global.js
-firebase
+# src/Firebase.js
+# src/Global.js
+# firebase
